@@ -7,7 +7,7 @@ import { supabase, Session } from './lib/supabase';
 const MICRO_APPS = {
   DASHBOARD: 'https://app-p1-eight.vercel.app',
   PRODUCTS: 'https://www.google.com/search?igu=1&q=products&igu=1&tbm=isch',
-  ADMIN: 'https://www.google.com/search?igu=1&q=admin+panel&igu=1&tbm=isch',
+  ADMIN: 'https://ademi.vercel.app/',
 };
 
 // Security: Define trusted origins for micro-apps dynamically
