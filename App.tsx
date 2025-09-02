@@ -5,7 +5,7 @@ import LoginModal from './components/LoginModal';
 import { supabase, Session } from './lib/supabase';
 
 const MICRO_APPS = {
-  DASHBOARD: 'https://www.google.com/search?igu=1&q=dashboard&igu=1&tbm=isch',
+  DASHBOARD: 'https://app-p1-eight.vercel.app',
   PRODUCTS: 'https://www.google.com/search?igu=1&q=products&igu=1&tbm=isch',
   ADMIN: 'https://www.google.com/search?igu=1&q=admin+panel&igu=1&tbm=isch',
 };
