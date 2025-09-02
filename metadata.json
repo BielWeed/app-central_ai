@@ -1,0 +1,5 @@
+{
+  "name": "React App Shell",
+  "description": "A modern and responsive app shell structure built with React and Tailwind CSS, featuring a persistent header and sidebar, with content loaded into an iframe. Includes a mock login system to demonstrate state management.",
+  "requestFramePermissions": []
+}
